@@ -8,8 +8,6 @@ It consists of a response to to 2 prompts:
 
 NeuroFlow's problem is that there is no currently good way to show patients and providers their trajectory on the GAD-7 assessment through time.  The aim of this section is to first, visualize a patient's trajectory, and second, to develop further insights into the business challenges of Neuroflow.  
 
-## Part 1 Response
-
 I responded to this prompt with 2 visualization studies:
 
 * [Individual Patient Trajectory](https://github.com/Pamaland1/NeuroFlow_Take_Home_Project/blob/master/Anupama_Garla_Part_1_NeuroFlow_Take_Home_Data_Visualization.ipynb)
